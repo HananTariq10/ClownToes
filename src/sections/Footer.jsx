@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='flex flex-col items-start'>
           <a href='/'>
             <img
-              src={footerLogo}
+              src='https://www.vectorkhazana.com/assets/images/products/Sneaker_Green.png'
               alt='logo'
               width={150}
               height={46}
@@ -17,7 +17,7 @@ const Footer = () => {
             />
           </a>
           <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
-            Get shoes ready for the new term at your nearest Nike store. Find
+            Get shoes ready for the new term at your nearest ClownToes store. Find
             Your perfect Size In Store. Get Rewards
           </p>
           <div className='flex items-center gap-5 mt-8'>

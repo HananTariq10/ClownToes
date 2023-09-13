@@ -10,45 +10,45 @@ export const navLinks = [
 
 export const shoes = [
     {
-        thumbnail: thumbnailShoe1,
+        thumbnail: bigShoe1,
         bigShoe: bigShoe1,
     },
     {
-        thumbnail: thumbnailShoe2,
+        thumbnail: bigShoe2,
         bigShoe: bigShoe2,
     },
     {
-        thumbnail: thumbnailShoe3,
+        thumbnail: bigShoe3,
         bigShoe: bigShoe3,
     },
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1B+', label: 'Brands' },
+    { value: '999+', label: 'Shops' },
+    { value: '8B+', label: 'Customers' },
 ];
 
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "ClownToes Water LeBron-01",
+        price: "$1.20",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "ClownToes Water LeBron-10",
+        price: "$10.20",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "ClownToes Water LeBron-100",
+        price: "$20.20",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "ClownToes Water LeBron-001",
+        price: "$30.20",
     },
 ];
 
@@ -90,12 +90,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Water Force 1", link: "/" },
+            { name: "Water Max 1", link: "/" },
+            { name: "Water LeBron 1", link: "/" },
+            { name: "Water Force 2", link: "/" },
+            { name: "ClownToes Waffle Racer", link: "/" },
+            { name: "ClownToes Cortez", link: "/" },
         ],
     },
     {
@@ -111,7 +111,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "customer@ClownToes.com", link: "mailto:customer@ClownToes.com" },
             { name: "+92554862354", link: "tel:+92554862354" },
         ],
     },

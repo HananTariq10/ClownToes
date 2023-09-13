@@ -8,11 +8,11 @@ const Nav = () => {
       <nav className='flex justify-between items-center max-container'>
         <a href='/'>
           <img
-            src={headerLogo}
+            src='https://www.vectorkhazana.com/assets/images/products/Sneaker_Green.png'
             alt='logo'
-            width={129}
-            height={29}
-            className='m-0 w-[129px] h-[29px]'
+            width={45}
+            height={39}
+            className='m-0 w-[45px] h-[39px]'
           />
         </a>
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>
